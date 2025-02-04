@@ -1,0 +1,13 @@
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.csproj.AssemblyReference.cache
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.csproj.GenerateResource.cache
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.csproj.CoreCompileInputs.cache
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.FrmBD.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.FrmFamilies.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.FrmMain.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.FrmAMFamilies.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.Properties.Resources.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\bin\Debug\MVC_2_ClFamiliesSqlServer.exe.config
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\bin\Debug\MVC_2_ClFamiliesSqlServer.exe
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\bin\Debug\MVC_2_ClFamiliesSqlServer.pdb
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.exe
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_2_ClFamiliesSqlServer\MVC_2_ClFamiliesSqlServer\obj\Debug\MVC_2_ClFamiliesSqlServer.pdb

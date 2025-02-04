@@ -1,0 +1,31 @@
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\MVC_3_ClFamilies.exe.config
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\MVC_3_ClFamilies.exe
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\MVC_3_ClFamilies.pdb
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.csproj.AssemblyReference.cache
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmBD.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmFamilies.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmMain.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmAMFamilies.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.Properties.Resources.resources
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.csproj.GenerateResource.cache
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.csproj.CoreCompileInputs.cache
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.exe
+E:\EDUCEM\CURS 2023-24\DAM - M3UF6 - 18H - INTRODUCCIÓ A LA PERSISTÈNCIA EN BD\SOLUCIONS\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.pdb
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.csproj.AssemblyReference.cache
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmBD.resources
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmFamilies.resources
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmMain.resources
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.FrmAMFamilies.resources
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.Properties.Resources.resources
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.csproj.GenerateResource.cache
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.csproj.CoreCompileInputs.cache
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.exe
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_ClFamilies.pdb
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\MVC_3_ClFamilies.exe.config
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\MVC_3_ClFamilies.exe
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\MVC_3_ClFamilies.pdb
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\EntityFramework.dll
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\EntityFramework.xml
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marc\Desktop\M3\UF6\MVC_3_ClFamilies\MVC_3_ClFamilies\MVC_3_ClFamilies\obj\Debug\MVC_3_Cl.FAC39AE4.Up2Date

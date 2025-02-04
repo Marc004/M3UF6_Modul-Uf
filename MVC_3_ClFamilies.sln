@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_4_CiclesFormatius", "MVC_3_ClFamilies\MVC_4_CiclesFormatius.csproj", "{606B5687-69D0-409B-8316-71385B4539CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606B5687-69D0-409B-8316-71385B4539CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606B5687-69D0-409B-8316-71385B4539CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606B5687-69D0-409B-8316-71385B4539CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606B5687-69D0-409B-8316-71385B4539CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DF4E9A-EC94-49E1-8232-B952B615570D}
+	EndGlobalSection
+EndGlobal
